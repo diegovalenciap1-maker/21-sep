@@ -1,0 +1,6 @@
+{
+  "name": "Guía Interactiva PCA & Método del Codo (Dataset Swiss)",
+  "description": "Explicación pedagógica e interactiva del algoritmo PCA (Análisis de Componentes Principales) usando el dataset Swiss, con cálculo en tiempo real, gráfico de sedimentación del codo, biplot y matriz de cargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
